@@ -1,0 +1,6 @@
+﻿degradacija,yolo11n,yolo11s,yolo11m,yolo11l,yolo11x
+Mrak,0.02,0.02,0.02,0.02,0.02
+Magla,0.32,0.35,0.37,0.35,0.35
+Sneg,0.32,0.35,0.37,0.35,0.35
+Zamućenje pokreta,nije pao (min SSIM 0.57),nije pao (min SSIM 0.57),nije pao (min SSIM 0.57),nije pao (min SSIM 0.57),nije pao (min SSIM 0.57)
+Kompresija/rezolucija,0.40,0.40,0.40,0.40,0.40

@@ -1,0 +1,8 @@
+Test slika ukupno: 137
+Izbaceno (vozilo i u train): 41
+test_clean: 96 slika, 102 tablica
+Uklonjeni pogresni boxovi na slikama koje ostaju: 3
+   IMG0031.jpg: idx [2]
+   IMG0312.jpg: idx [2]
+   IMG0365.jpg: idx [1]
+Izbacene slike: IMG0068.jpg, IMG0074.jpg, IMG0076.jpg, IMG0286.jpg, IMG0288.jpg, IMG0477.jpg, IMG0518.jpg, IMG0524.jpg, IMG0525.jpg, IMG0530.jpg, IMG0532.jpg, IMG0534.jpg, IMG0554.jpg, IMG0559.jpg, IMG0564.jpg, IMG0571.jpg, IMG0578.jpg, IMG0583.jpg, IMG0587.jpg, IMG0604.jpg, IMG0614.jpg, IMG0616.jpg, IMG0617.jpg, IMG0624.jpg, IMG0629.jpg, IMG0630.jpg, IMG0631.jpg, IMG0642.jpg, IMG0643.jpg, IMG0648.jpg, IMG0664.jpg, IMG0665.jpg, IMG0667.jpg, IMG0674.jpg, IMG0682.jpg, IMG0683.jpg, IMG0686.jpg, IMG0687.jpg, IMG0688.jpg, IMG0690.jpg, IMG0693.jpg
